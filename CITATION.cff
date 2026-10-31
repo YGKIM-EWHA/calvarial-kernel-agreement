@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Kernel-paired calvarial CT measurement pipeline"
+version: 1.0.0
+date-released: 2026-10-31
+license: MIT
+authors:
+  - family-names: Nam
+    given-names: Taek Min
+    affiliation: Department of Neurosurgery, Ewha Womans University Mokdong Hospital, Seoul, Republic of Korea
+  - family-names: Park
+    given-names: Yoonsoo
+    affiliation: Department of Neurosurgery, Ewha Womans University Mokdong Hospital, Seoul, Republic of Korea
+  - family-names: Yang
+    given-names: Na Rae
+    affiliation: Department of Neurosurgery, Ewha Womans University Mokdong Hospital, Seoul, Republic of Korea
+  - family-names: Kim
+    given-names: Young Goo
+    orcid: https://orcid.org/0000-0003-1496-433X
+    affiliation: Department of Neurosurgery, Ewha Womans University Mokdong Hospital, Seoul, Republic of Korea
+keywords:
+  - calvarial thickness
+  - skull density ratio
+  - reconstruction kernel
+  - computed tomography

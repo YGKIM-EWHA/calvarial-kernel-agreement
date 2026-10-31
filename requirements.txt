@@ -1,0 +1,8 @@
+# Versions used for the analysis (Python 3.14.5)
+SimpleITK==2.5.5
+pydicom==3.0.2
+numpy==2.4.6
+scipy==1.17.1
+scikit-image
+openpyxl
+pandas

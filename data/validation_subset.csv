@@ -1,0 +1,20 @@
+study_id,region,surface_obliquity_deg,automated_total_mm,manual_total_mm,difference_auto_minus_manual_mm
+FIN-001,"Occipital, left",0.5,9.02,9.53,-0.51
+FIN-002,"Occipital, left",0.7,8.44,8.81,-0.37
+FIN-015,"Temporal, left",0.8,4.22,5.0,-0.78
+FIN-025,"Occipital, right",1.5,6.56,6.61,-0.05
+FIN-028,"Temporal, right",1.3,3.91,4.53,-0.62
+FIN-029,"Frontal, right",0.2,5.37,6.23,-0.86
+FIN-039,"Frontal, left",0.5,4.69,5.43,-0.74
+FIN-046,"Occipital, right",0.1,5.74,5.82,-0.08
+FIN-049,"Temporal, right",0.1,3.28,3.99,-0.71
+FIN-057,"Occipital, left",0.7,4.94,5.67,-0.73
+FIN-066,"Occipital, right",0.1,8.44,9.18,-0.74
+FIN-067,"Frontal, right",0.6,4.73,4.97,-0.24
+FIN-068,"Occipital, right",1.2,6.74,6.93,-0.19
+FIN-077,"Occipital, right",0.2,6.45,7.25,-0.8
+FIN-079,"Frontal, right",0.1,4.22,4.71,-0.49
+FIN-088,"Temporal, left",0.1,5.16,5.39,-0.23
+FIN-093,"Occipital, left",0.6,5.62,6.23,-0.61
+FIN-097,"Temporal, right",0.0,3.75,4.06,-0.31
+FIN-104,"Occipital, right",2.8,7.03,7.61,-0.58
