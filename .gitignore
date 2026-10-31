@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.bak_*
+PairDB_*.csv
+PairDB_*.xlsx
+codemap*.csv
+*_CONFIDENTIAL*
+SDR_Database*
+results/
